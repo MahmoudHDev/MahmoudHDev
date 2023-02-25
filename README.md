@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
-<h3 align="center">A passionate iOS Developer From Egypt.</h3>
+<h3 align="center">Self-taught iOS developer with a passion for creating innovative and user-friendly apps using Swift and UIKit..</h3>
 
 <p align="left"> <a href="https://twitter.com/mahmoud1hashim" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoud1hashim?logo=twitter&style=for-the-badge" alt="mahmoud1hashim" /></a> </p>
 
