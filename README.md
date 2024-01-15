@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Hashim</h1>
 <h3 align="center">A passionate frontend developer from 𓁈𓆣 Egypt 𓂀𓋹</h3>
 
-- 🌱 I’m currently learning **to be a profisional full-stack developer.**
+- 🌱 I’m currently learning **to be a professional full-stack and iOS developer.**
 
-- 👯 I’m looking to collaborate on **FullStack Web Apps, and iOS Apps.**
+- 👯 I’m looking to collaborate on **Web Apps, and iOS Apps.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MahmoudHDev](https://github.com/MahmoudHDev)
 
