@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Hashim</h1>
 <h3 align="center">A passionate frontend developer from 𓁈𓆣 Egypt 𓂀𓋹</h3>
 
-- 🌱 I’m **a full-stack.**
+- 🌱 I’m **a MERN-stack Developer .**
 
 - 👯 I’m looking to collaborate on **Web Apps.**
 
