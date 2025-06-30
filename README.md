@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MahmoudHDev](https://github.com/MahmoudHDev)
 
-- 💬 Ask me about **React, nodeJS,expressJS, Mongoose, JS, HTML, CSS, Bootstrap, Jquery and other technologies.**
+- 💬 Ask me about **ReactJS, nodeJS,expressJS, Mongoose, JS, HTML, CSS, Bootstrap, Jquery and other technologies.**
 
 - 📫 How to reach me **Mahmoud.ios.dev@gmail.com**
 
