@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Hashim</h1>
 <h3 align="center">A passionate frontend developer from 𓁈𓆣 Egypt 𓂀𓋹</h3>
 
-- 🌱 I’m **a MERN-stack Developer .**
+- 🌱 I’m **a PERN-stack Developer .**
 
 - 👯 I’m looking to collaborate on **Web Apps.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MahmoudHDev](https://github.com/MahmoudHDev)
 
-- 💬 Ask me about **ReactJS, nodeJS,expressJS, Mongoose, JS, HTML, CSS, Bootstrap, Jquery and other technologies.**
+- 💬 Ask me about **ReactJS, nodeJS,expressJS ,Postgresql, Mongoose, JS, HTML, CSS, Bootstrap, Jquery and other technologies.**
 
 - 📫 How to reach me **Mahmoud.ios.dev@gmail.com**
 
