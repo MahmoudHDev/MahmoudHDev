@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Hashim</h1>
-<h3 align="center">A passionate frontend developer from 𓁈𓆣 Egypt 𓂀𓋹</h3>
+<h3 align="center">A passionate PERN Stack developer from 𓁈𓆣 Egypt 𓂀𓋹</h3>
 
 - 🌱 I’m **a PERN-stack Developer .**
 
